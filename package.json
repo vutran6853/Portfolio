@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/vutran6853/Portfolio/issues"
   },
-  "homepage": "https://github.com/vutran6853/Portfolio#readme"
+  "homepage": "https://github.com/vutran6853/Portfolio#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
